@@ -1,1 +1,1 @@
-# .github
+Creating an opinionated self-hosted cloud. Free yourself from nasty <abbr title="Meta (Facebook), Apple, Amazon, Netflix and Alphabet (Google)">FAANGs</abbr> and enjoy peace of mind knowing your data is back in your hands.
